@@ -3,7 +3,9 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+My name is Dallas.
+
+I like Sharks!
 
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
